@@ -10,7 +10,7 @@
 </ul>
 
 <div style="display:flex">
-    <img src="/imagem-site-desktop.png">
-    <img src="/imagem-site-tablet.png">
-    <img src="/imagem-site-mobile.png">
+    <img src="imagens/imagem-site-desktop.png">
+    <img src="imagens/imagem-site-tablet.png">
+    <img src="imagens/imagem-site-mobile.png">
 </div>
