@@ -11,7 +11,7 @@
 
 <div>
     <img src="imagens/imagem-site-desktop.png">
-        <div style="display: flex;">
+        <div style="display: flex; padding: 4rem;">
             <img src="imagens/imagem-site-tablet.png">
             <img src="imagens/imagem-site-mobile.png">
         </div>
