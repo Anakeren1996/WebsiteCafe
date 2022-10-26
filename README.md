@@ -13,6 +13,6 @@
     <img src="imagens/imagem-site-desktop.png">
         <div style="display: flex;">
             <img src="imagens/imagem-site-tablet.png">
-            <img src="imagens/imagem-site-mobile.png" style="padding: 4rem";>
+            <img src="imagens/imagem-site-mobile.png" style="padding-left: 4rem";>
         </div>
 </div>
