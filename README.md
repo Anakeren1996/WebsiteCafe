@@ -11,8 +11,4 @@
 
 <div>
     <img src="imagens/imagem-site-desktop.png">
-        <div style="display: flex; justify-content: space-around;">
-            <img src="imagens/imagem-site-tablet.png">
-            <img src="imagens/imagem-site-mobile.png";>
-        </div>
 </div>

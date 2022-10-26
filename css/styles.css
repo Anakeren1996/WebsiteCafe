@@ -370,8 +370,7 @@ section.review .box-container .box p {
 section.review .box-container .box .user {
   height: 7rem;
   width: 7rem;
-  -o-object-fit: cover;
-     object-fit: cover;
+  object-fit: cover;
 }
 section.review .box-container .box h3 {
   padding: 1rem 0;
@@ -392,8 +391,7 @@ section.contact .row {
 section.contact .row .map {
   flex: 1 1 45rem;
   width: 100%;
-  -o-object-fit: cover;
-     object-fit: cover;
+  object-fit: cover;
 }
 section.contact form {
   flex: 1 1 45rem;
@@ -443,8 +441,7 @@ section.blogs .box-container .box .image {
 }
 section.blogs .box-container .box .image img {
   height: 100%;
-  -o-object-fit: cover;
-     object-fit: cover;
+  object-fit: cover;
   width: 100%;
 }
 section.blogs .box-container .box .content {
@@ -530,12 +527,15 @@ section.footer {
   html {
     font-size: 55%;
   }
+
   section {
     padding: 2rem;
   }
+
   .header {
     padding: 1.5rem 2rem;
   }
+
   section {
     padding: 2rem;
   }
@@ -544,6 +544,7 @@ section.footer {
   #menu-btn {
     display: inline-block;
   }
+
   .header .navbar {
     position: absolute;
     top: 100%;
@@ -552,9 +553,11 @@ section.footer {
     width: 30rem;
     height: calc(100vh - 9.5rem);
   }
+
   .header .navbar.active {
     right: 0;
   }
+
   .header .navbar a {
     color: var(--black);
     display: block;
@@ -562,10 +565,12 @@ section.footer {
     padding: 0.5rem;
     font-size: 2rem;
   }
+
   .header .search-form {
     width: 90%;
     right: 2rem;
   }
+
   section.home {
     background-position: left;
     justify-content: center;
@@ -582,4 +587,6 @@ section.footer {
   html {
     font-size: 50%;
   }
-}/*# sourceMappingURL=styles.css.map */
+}
+
+/*# sourceMappingURL=styles.css.map */
